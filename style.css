@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  text-decoration: none;
+  list-style-type: none;
+  font-family: "Poppins", serif;
+}
+
+.container {
+  max-width: 1210px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+:root {
+  --primary-color: #111111;
+  --footer-hover: #7f7f7f;
+}
+
+/* -------------------------  header start----------------------------- */
+
+header {
+  width: 100%;
+  background-image: url(./images/HEADER\ background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 174px;
+}
+
+/* -------------------------  header end----------------------------- */
+
+/* -------------------------  intro start----------------------------- */
+
+/* -------------------------  intro end----------------------------- */
+
+/* -------------------------  catalogue start----------------------------- */
+
+/* -------------------------  catalogue end----------------------------- */
+
+/* -------------------------  product start----------------------------- */
+
+/* -------------------------  product end----------------------------- */
+
+/* -------------------------  send start----------------------------- */
+
+/* -------------------------  send end----------------------------- */
